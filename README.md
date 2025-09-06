@@ -19,7 +19,7 @@ conda activate LegalLLMEnv
 ### Supported models
 
 There are two models that are curently supported.
-1. OpenAI (API calls)
+1. OpenAI (API calls) → **requires OpenAI API key in the .env file**
 2. Ollama (locally installed [i.e., in your own computer] LLM)
 
 ### Contract or file uploads
